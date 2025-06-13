@@ -1,0 +1,28 @@
+$bs-btn-color: #ffffff;
+$primary: #5F8171;
+
+
+#bg-home-page {
+    background-color: $primary;
+}
+
+#bg-feed-profile {
+    background-color: #f0f0f0;
+}
+
+.btn-primary {
+  color: #ffffff !important; 
+}
+
+body {
+    font-family: 'Allerta Stencil', sans-serif;
+}
+
+h1 {
+    font-family: 'Allerta Stencil', sans-serif;
+}
+
+p {
+    font-family: 'Inter', sans-serif;
+}
+@import "../node_modules/bootstrap/scss/bootstrap";

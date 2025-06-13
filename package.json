@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.6"
+  },
+  "scripts": {
+    "dev": "sass --watch scss:css", 
+    "build": "sass scss:css --style=compressed" 
+  }
+}
